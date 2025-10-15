@@ -1,5 +1,5 @@
 # Proyecto prueba
-## 08//10/2025 Agosto
+## 08/10/2025 Agosto
 
 # Integrantes y sus asignaciones:
 ## German  - Ofertas
